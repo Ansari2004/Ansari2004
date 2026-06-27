@@ -35,6 +35,7 @@ My final year project. SafeTrip generates **personalized city safety scores** us
 **Development & Tools**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -42,14 +43,15 @@ My final year project. SafeTrip generates **personalized city safety scores** us
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| 🛡️ [SafeTrip](https://github.com/Ansari2004) | AI travel safety app with personalized health-based city scores | Python, FastAPI, XGBoost, LightGBM |
-| 💰 [Freelancer Price Prediction](https://github.com/Ansari2004/Freelancer-Price-Prediction) | Predicts freelancer earnings using Random Forest Regression | Python, Scikit-Learn, Pandas |
-| 📈 [BTC Price Prediction](https://github.com/Ansari2004/BTC-Stock-Price-Prediction) | Bitcoin price forecasting with time-series ML | Python, Jupyter |
-| 🚢 [Titanic Survival Classification](https://github.com/Ansari2004/Titanic-Survival-Classification) | Binary classification with feature engineering | Python, Scikit-Learn |
-| 📊 [Power BI Projects](https://github.com/Ansari2004/Power-BI-projects) | Business intelligence dashboards | Power BI |
-| 📱 [Social Media & Academic Performance](https://github.com/Ansari2004/Case-Study-The-Impact-of-Social-Media-on-Students-Academic-Performance.) | Data-driven case study on student behavior | Python, Data Analysis |
+| Project | Description | Tech | Demo |
+|---|---|---|---|
+| 🔴 [Customer Churn Prediction](https://github.com/Ansari2004/Customer_Churn_Prediction) | ML model predicting whether a customer will churn, with interactive UI | Python, Scikit-Learn, Streamlit | [🚀 Live](https://customerchurnprediction-ansari2004.streamlit.app/) |
+| 📦 [Walmart Sales Regression](https://github.com/Ansari2004/Walmart-Sales-Regression) | Regression model forecasting Walmart store sales with real-time prediction | Python, Scikit-Learn, Streamlit | [🚀 Live](https://walmart-sales-regression-ansari2004.streamlit.app/) |
+| 🛡️ SafeTrip | AI travel safety app with personalized health-based city scores | Python, FastAPI, XGBoost, LightGBM | 🔧 In Progress |
+| 💰 [Freelancer Price Prediction](https://github.com/Ansari2004/Freelancer-Price-Prediction) | Predicts freelancer earnings using Random Forest Regression | Python, Scikit-Learn, Pandas | — |
+| 📈 [BTC Price Prediction](https://github.com/Ansari2004/BTC-Stock-Price-Prediction) | Bitcoin price forecasting with time-series ML | Python, Jupyter | — |
+| 🚢 [Titanic Survival Classification](https://github.com/Ansari2004/Titanic-Survival-Classification) | Binary classification with feature engineering | Python, Scikit-Learn | — |
+| 📊 [Power BI Projects](https://github.com/Ansari2004/Power-BI-projects) | Business intelligence dashboards | Power BI | — |
 
 ---
 
